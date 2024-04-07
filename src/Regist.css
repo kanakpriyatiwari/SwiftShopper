@@ -1,0 +1,23 @@
+
+.form{
+    text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-left: 20px;
+}
+
+
+
+ .box1{
+    width: 500px;
+    border: 1px solid rgb(244, 238, 238);
+    padding : 25px;
+    box-shadow:10px 10px 5px rgb(171, 177, 180);
+    background-color: #fdfcf5;
+    /* margin-left: 20px; */
+ }
+
+label{
+    padding: 4px;
+    /* /* font-size: 20px; */
+}
+

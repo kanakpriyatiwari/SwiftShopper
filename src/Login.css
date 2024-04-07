@@ -1,0 +1,22 @@
+#form{
+    /* text-align: left; */
+    width: 350px;
+    height: 380px;
+    /* border: 1px solid black; */
+    box-shadow:10px 10px 5px rgb(207, 226, 236);
+    padding: 20px;
+    margin-top: 50px;
+    margin-right: 350px;
+   
+}
+
+#login{
+    text-align: center;
+    margin-top: 100px;
+    /* margin-bottom: 100px; */
+}
+
+#heading1{
+    text-align: left;
+    margin-left: 60px;
+}

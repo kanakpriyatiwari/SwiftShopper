@@ -1,0 +1,28 @@
+.welcome-box {
+  text-align: center;
+  padding: 20px;
+ 
+ 
+  width: 70%; 
+  max-width: 900px; 
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+p {
+  color: #f54409;
+  font-size: 28px;
+}
+
+#h1 {
+  color: #05387b;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img {
+  width: 90%; 
+  max-width: 300px; 
+  display: block; 
+  margin-left: auto;
+  margin-right: auto; 
+}
